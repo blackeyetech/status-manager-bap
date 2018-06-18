@@ -1,5 +1,5 @@
 {
-  "name": "status-manager-bap",
+  "name": "@besh/status-manager-bap",
   "description": "Status manager BAP",
   "main": "status-manager-bap.js",
   "scripts": {
