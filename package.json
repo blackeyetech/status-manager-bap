@@ -1,0 +1,19 @@
+{
+  "name": "status-manager-bap",
+  "description": "Status manager BAP",
+  "main": "status-manager-bap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Black Eye Technology",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackeyetech/status-manager-bap.git"
+  },
+  "keywords": ["besh", "bap", "status"],
+  "bugs": {
+    "url": "https://github.com/blackeyetech/status-manager-bap/issues"
+  },
+  "homepage": "https://github.com/blackeyetech/status-manager-bap#readme"
+}
